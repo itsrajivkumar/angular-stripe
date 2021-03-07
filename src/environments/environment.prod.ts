@@ -1,4 +1,5 @@
 export const environment = {
   production: true,
-  stripe_key: 'pk_test_51HSxmHFHabj9XRH6FRDABkTg4M5jSU7ZPKXismUzYytZh8JkfxqiwjtVDSlbcAR4kQ8U6Yy19RQCoSjsspXVmhzf002G4ny8sA'
+  stripe_key: 'pk_test_nCSr8a1jVcFEvX37k31jpApN',
+  price_id: 'price_1ISB4pGNUa0phpI3vj0M0ejB'
 };
